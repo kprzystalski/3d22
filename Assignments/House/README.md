@@ -1,5 +1,5 @@
 # House 
-Termin oddania: 29.11.22 23:59 2pkt. 
+Termin oddania: 12.11.22 23:59 2pkt. 
 
 1. Please copy the `src/Assignments/Triangle`  directory to  `src/Assignments/House`. You can do this either by provided script (use it at your own risk!):
     ```{python}
