@@ -1,6 +1,6 @@
 # Uniforms
 
-Termin oddania: x.y.z 23:59 3pkt
+Termin oddania: 7.12.22 23:59 3pkt
 
 In this assignment you will learn how to add uniform  interface blocks to shaders and connect them to buffers. As 
 usual please start  with duplicating the `Indices` assignment and rename it to `Uniforms`. 
